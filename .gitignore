@@ -1,0 +1,5 @@
+.env 
+node_modules/ 
+printers-config.json 
+recados-config.json 
+api.env 
